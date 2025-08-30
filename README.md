@@ -1,6 +1,6 @@
 <!-- GIF do Mario -->
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" alt="Mario coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Mario coding" />
 </div>
 
 <br>
