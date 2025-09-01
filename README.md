@@ -64,12 +64,18 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagofalcone&theme=github-dark&hide_border=true" alt="thiagofalcone" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=thiagofalcone&show_icons=true&theme=github_dark&hide_border=true" alt="thiagofalcone" height="200" />
+  
+  <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofalcone&layout=compact&theme=github_dark&hide_border=true" alt="thiagofalcone" height="200" />
 
 </div>
+
 
 </div>
