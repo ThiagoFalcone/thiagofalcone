@@ -64,8 +64,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagofalcone&theme=github-dark&hide_border=true" alt="thiagofalcone" height="200" />
