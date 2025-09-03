@@ -65,22 +65,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagofalcone&theme=github-dark&hide_border=true" alt="thiagofalcone" height="200" />
-      </td>
-      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=thiagofalcone&show_icons=true&theme=github_dark&hide_border=true" alt="thiagofalcone" height="200" />
       </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofalcone&layout=compact&theme=github_dark&hide_border=true" alt="thiagofalcone" height="200" />
       </td>
     </tr>
   </table>
-
 </div>
 
