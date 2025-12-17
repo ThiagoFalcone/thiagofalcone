@@ -23,17 +23,18 @@
 
 ---
 
-# <div align="center" style="color:#58a6ff">👋 Hey there, I'm Thiago Falcone</div>
+# <div align="center" style="color:#58a6ff">👋 Hey there, I'm Thiago Matheus Onorio Ribeiro Pinheiro</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Undergraduate in Software Engineering**  
-💻 **Skilled in Java, Spring Boot, Angular, HTML, CSS & JavaScript**  
-🔬 **Experienced in Software Design, Metrology & Quality Control**  
-🚀 **Passionate about Scalable Solutions, Ethical Innovation & International Collaboration**  
-🌍 **Polyglot: Fluent in English & Portuguese, Proficient in German**
+🎓 Undergraduate in Software Engineering  
+💻 Full Stack Developer with expertise in Java, Spring Boot, Angular, HTML, CSS, JavaScript, Flutter, Dart & Python, experienced in building and deploying scalable applications  
+🔬 Skilled in Software Design, Metrology & Quality Control  
+🗣️ Excellent communication and teamwork skills, with a collaborative and solution-oriented mindset  
+🚀 Passionate about creating scalable solutions, driving ethical innovation, and collaborating on international projects  
+🌍 Polyglot: Portuguese (native), English (fluent), German A2–B1
 
 ---
 
@@ -46,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
   <!-- Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring logo" />
   <!-- Angular -->
@@ -54,6 +57,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
+  <!-- Flutter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter logo" />
+  <!-- Dart -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart logo" />
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
   <!-- PostgreSQL -->
@@ -76,4 +83,3 @@
     </tr>
   </table>
 </div>
-
