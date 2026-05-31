@@ -27,14 +27,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##👨‍💻 About Me
 
-🎓 Undergraduate in Software Engineering  
-💻 Full Stack Developer with expertise in Java, Spring Boot, Angular, HTML, CSS, JavaScript, Flutter, Dart & Python, experienced in building and deploying scalable applications  
-🔬 Skilled in Software Design, Metrology & Quality Control  
-🗣️ Excellent communication and teamwork skills, with a collaborative and solution-oriented mindset  
-🚀 Passionate about creating scalable solutions, driving ethical innovation, and collaborating on international projects  
-🌍 Polyglot: Portuguese (native), English (fluent), German A2–B1
+💻 Software Engineer | Founder & CEO
+
+Engineering scalable products, intelligent systems and technology-driven businesses. Passionate about software architecture, AI, product strategy and technical leadership, with a strong focus on innovation, execution and long-term impact.
+
+🌍 Portuguese (Native) • English (Fluent) • German (A2–B1)
 
 ---
 
