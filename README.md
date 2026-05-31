@@ -1,84 +1,125 @@
-<!-- GIF do Mario -->
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Mario coding" />
+<!-- Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="Mario Coding">
 </div>
 
 <br>
 
-<!-- Redes sociais -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/thiago-matheus-onorio-ribeiro-pinheiro-5b918b270" target="_blank" style="display: inline-block; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" style="transition: all 0.3s ease; filter: brightness(0.9);" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.9)'" />
-  </a>
-</div>
 
-<br>
+# Thiago Matheus Onorio Ribeiro Pinheiro
 
-<!-- Contador de visitas -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thiagofalcone&label=Profile%20views&color=0e75b6&style=flat" alt="thiagofalcone" />
-</div>
+### AI Solutions • Software Architecture • Product Engineering • Technical Leadership
 
----
+<a href="https://www.linkedin.com/in/thiago-matheus-onorio-ribeiro-pinheiro-5b918b270/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
+</a>
 
-# <div align="center" style="color:#58a6ff">👋 Hey there, I'm Thiago Matheus Onorio Ribeiro Pinheiro</div>
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=thiagofalcone&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-##👨‍💻 About Me
-
-💻 Software Engineer | Founder & CEO
-
-Engineering scalable products, intelligent systems and technology-driven businesses. Passionate about software architecture, AI, product strategy and technical leadership, with a strong focus on innovation, execution and long-term impact.
-
-🌍 Portuguese (Native) • English (Fluent) • German (A2–B1)
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="left">
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
-  <!-- Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring logo" />
-  <!-- Angular -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="Angular logo" />
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
-  <!-- Flutter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter logo" />
-  <!-- Dart -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart logo" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL logo" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
+
+Building scalable products, intelligent systems and technology-driven businesses.
+
+Experienced in software architecture, cloud deployments, artificial intelligence integration, workflow automation and end-to-end product development.
+
+Passionate about technical leadership, innovation, digital transformation and creating solutions that generate measurable impact.
+
+### 🌎 Languages
+
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Fluent)
+- 🇩🇪 German (A2–B1)
+
+---
+
+## 🌟 Core Competencies
+
+- Software Architecture
+- Artificial Intelligence
+- Product Development
+- System Design
+- Cloud Solutions
+- Workflow Automation
+- Technical Leadership
+- Innovation Strategy
+- Digital Transformation
+
+---
+
+## 🤖 AI & Automation
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Anthropic-Claude-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ Cloud, DevOps & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌐 Technology Ecosystem
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thiagofalcone&show_icons=true&theme=github_dark&hide_border=true" alt="thiagofalcone" height="200" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofalcone&layout=compact&theme=github_dark&hide_border=true" alt="thiagofalcone" height="200" />
-      </td>
-    </tr>
-  </table>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,flutter,dart,python,postgres,docker,git,github,aws)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- Building AI-powered products
+- Designing scalable architectures
+- Intelligent automation with n8n
+- Cloud-native applications
+- Product strategy and innovation
+- Technology-driven business solutions
+
+---
+
+## 🎯 Areas of Interest
+
+Artificial Intelligence • Software Architecture • Product Engineering • Cloud Computing • Automation • Innovation • Entrepreneurship • Technical Leadership
+
+---
+
+<div align="center">
+
+### 🚀 Building products, systems and technology that create real impact.
+
 </div>
