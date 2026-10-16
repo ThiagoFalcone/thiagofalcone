@@ -8,15 +8,12 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thiago-matheus-onorio-ribeiro-pinheiro-5b918b270/" target="_blank">
-  <img src="assets/linkedin.svg" height="28" alt="LinkedIn"/>
-</a>
-<img src="https://img.shields.io/badge/Rock_%26_Roll-000000?style=for-the-badge&logo=spotify&logoColor=ff2a2a" alt="Rock"/>
-<img src="https://img.shields.io/badge/Elden_Ring-C8A951?style=for-the-badge&logo=steam&logoColor=black" alt="Elden Ring"/>
-<img src="https://img.shields.io/badge/PC_Master_Race-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="PC"/>
-<img src="https://img.shields.io/badge/Dark_Fantasy-3A0CA3?style=for-the-badge" alt="Dark Fantasy"/>
-<img src="https://img.shields.io/badge/Anime-E63946?style=for-the-badge" alt="Anime"/>
-<img src="https://komarev.com/ghpvc/?username=thiagofalcone&label=Adventurers%20who%20passed%20by&color=c8a24a&style=for-the-badge" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/thiago-matheus-onorio-ribeiro-pinheiro-5b918b270/" target="_blank"><img src="assets/badges/linkedin.svg" height="32" alt="LinkedIn"/></a>
+<img src="assets/badges/rock.svg" height="32" alt="Rock & Roll"/>
+<img src="assets/badges/eldenring.svg" height="32" alt="Elden Ring"/>
+<img src="assets/badges/pc.svg" height="32" alt="PC Master Race"/>
+<img src="assets/badges/darkfantasy.svg" height="32" alt="Dark Fantasy"/>
+<img src="assets/badges/anime.svg" height="32" alt="Anime"/>
 
 </div>
 
