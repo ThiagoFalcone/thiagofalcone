@@ -1,0 +1,42 @@
+name: Seasonal README theme
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply theme and regenerate pixel-art assets
+        run: python3 scripts/seasonal.py README.md
+
+      - name: Generate GitHub stats card
+        run: python3 scripts/gh_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Generate 3D contributions graph
+        run: python3 scripts/gh_contrib3d.py
+        env:
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          git add -A
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: update seasonal theme, quote and contributions"
+            git push
+          fi
