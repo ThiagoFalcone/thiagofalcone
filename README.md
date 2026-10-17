@@ -44,22 +44,22 @@ Building scalable products, intelligent systems and technology-driven businesses
 ### 🔮 Spellbook: AI & Automation
 
 <p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-Claude-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-4A90E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="assets/badges/openai.svg" height="32" alt="OpenAI"/>
+<img src="assets/badges/claude.svg" height="32" alt="Claude"/>
+<img src="assets/badges/agents.svg" height="32" alt="AI Agents"/>
+<img src="assets/badges/rag.svg" height="32" alt="RAG"/>
+<img src="assets/badges/prompt.svg" height="32" alt="Prompt Engineering"/>
+<img src="assets/badges/n8n.svg" height="32" alt="n8n"/>
 </p>
 
 ### ⚒️ The Forge: Cloud, DevOps & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="assets/badges/aws.svg" height="32" alt="AWS"/>
+<img src="assets/badges/vercel.svg" height="32" alt="Vercel"/>
+<img src="assets/badges/supabase.svg" height="32" alt="Supabase"/>
+<img src="assets/badges/docker.svg" height="32" alt="Docker"/>
+<img src="assets/badges/actions.svg" height="32" alt="GitHub Actions"/>
 </p>
 
 ### 🗡️ Weapons: Technology Ecosystem
@@ -92,7 +92,7 @@ Building scalable products, intelligent systems and technology-driven businesses
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=C8A951&center=true&vCenter=true&width=700&lines=Ozzy+Osbourne%3A+Crazy+Train;Iron+Maiden%3A+The+Trooper;Dio%3A+Holy+Diver;Path+of+Exile%3A+Wraeclast+awaits;Elden+Ring%3A+Rise%2C+Tarnished;Dragon+Ball%3A+Kamehameha" alt="Now playing"/>
+<img src="assets/nowplaying.svg" width="100%" alt="Now playing"/>
 
 </div>
 

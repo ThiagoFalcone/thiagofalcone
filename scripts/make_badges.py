@@ -17,6 +17,18 @@ BADGES = [
     ("pc", "PC MASTER RACE", "#1B2838", "#ffffff", "simple-icons/steam", "#ffffff", True),
     ("darkfantasy", "DARK FANTASY", "#3A0CA3", "#ffffff", "game-icons/horned-skull", "#ffffff", True),
     ("anime", "ANIME", "#E63946", "#ffffff", "game-icons/dragon-orb", "#ffffff", True),
+    ("openai", "OPENAI", "#412991", "#ffffff", "simple-icons/openai", "#ffffff", True),
+    ("claude", "CLAUDE", "#1a1a1e", "#ffffff", "simple-icons/anthropic", "#d97757", True),
+    ("agents", "AI AGENTS", "#4A90E2", "#ffffff", "game-icons/robot-golem", "#ffffff", True),
+    ("rag", "RAG", "#FF6B35", "#ffffff", "game-icons/magnifying-glass", "#ffffff", True),
+    ("prompt", "PROMPT ENGINEERING", "#8A2BE2", "#ffffff", "game-icons/scroll-quill", "#ffffff", True),
+    ("n8n", "N8N", "#EA4B71", "#ffffff", "simple-icons/n8n", "#ffffff", True),
+    ("aws", "AWS", "#232F3E", "#ffffff", "simple-icons/amazonaws", "#FF9900", True),
+    ("vercel", "VERCEL", "#000000", "#ffffff", "simple-icons/vercel", "#ffffff", True),
+    ("supabase", "SUPABASE", "#3ECF8E", "#0b1f16", "simple-icons/supabase", "#0b1f16", True),
+    ("docker", "DOCKER", "#2496ED", "#ffffff", "simple-icons/docker", "#ffffff", True),
+    ("actions", "GITHUB ACTIONS", "#2088FF", "#ffffff", "simple-icons/githubactions", "#ffffff", True),
+
 ]
 
 

@@ -838,6 +838,55 @@ def quote(today):
     return svg(W, H, b, 'role="img" aria-label="David Gilmour Stratocaster on a medieval frame, strings vibrating and music notes rising"'), "stage.svg"
 
 
+NOW_PLAYING = ["OZZY OSBOURNE: CRAZY TRAIN", "IRON MAIDEN: THE TROOPER", "DIO: HOLY DIVER", "PATH OF EXILE: WRAECLAST AWAITS",
+               "ELDEN RING: RISE, TARNISHED", "DRAGON BALL: KAMEHAMEHA"]
+
+
+def nowplaying():
+    """Frase digitada em loop (substitui o readme-typing-svg): cada linha e escrita letra a letra, fica parada e apaga."""
+    W, H = 1056, 70
+    n = len(NOW_PLAYING)
+    D = n * 4.6
+    b = ""
+    lab = "NOW PLAYING"
+    b += text((W - text_w(lab, 2)) // 2, 4, lab, 2, "#8a7a4a")
+    for i, line in enumerate(NOW_PLAYING):
+        L = len(line.upper())
+        w = text_w(line, 3)
+        x0 = (W - w) // 2
+        slot = 1 / n
+        t0 = i * slot
+        type_end = t0 + slot * 0.42
+        hold_end = t0 + slot * 0.92
+        pts = [(0.0, 0.0), (t0, 0.0)] if t0 > 0 else [(0.0, 0.0)]
+        for k in range(1, L + 1):
+            pts.append((t0 + (type_end - t0) * k / L, min(w, k * 18 - (3 if k == L else 0))))
+        pts.append((hold_end, 0.0))
+        if hold_end < 1.0:
+            pts.append((1.0, 0.0))
+        # remove tempos repetidos para manter keyTimes crescentes
+        clean, last = [], -1.0
+        for t, v in pts:
+            t = round(t, 5)
+            if t <= last:
+                t = last + 0.00001
+            clean.append((t, v))
+            last = t
+        clean[-1] = (1.0, clean[-1][1]) if clean[-1][0] >= 1.0 else clean[-1]
+        if clean[-1][0] < 1.0:
+            clean.append((1.0, 0.0))
+        kt = ";".join(f"{t:.5f}" for t, _ in clean)
+        wv = ";".join(f"{v:g}" for _, v in clean)
+        xv = ";".join(f"{x0 + v:g}" for _, v in clean)
+        b += (f'<defs><clipPath id="np{i}"><rect x="{x0 - 4}" y="14" width="0" height="40"><animate attributeName="width" values="{wv}" keyTimes="{kt}" '
+              f'calcMode="discrete" dur="{D:g}s" repeatCount="indefinite"/></rect></clipPath></defs>')
+        b += f'<g clip-path="url(#np{i})">{text(x0, 24, line, 3, "#f2cf5b", "#000000")}</g>'
+        vis = f"0;0;1;1;0;0"
+        b += (f'<rect x="{x0}" y="22" width="4" height="25" fill="#f2cf5b" opacity="0"><animate attributeName="x" values="{xv}" keyTimes="{kt}" calcMode="discrete" dur="{D:g}s" repeatCount="indefinite"/>'
+              f'<animate attributeName="opacity" values="0;1;0" keyTimes="0;{(t0 + slot * 0.01):.5f};1" calcMode="discrete" dur="{D:g}s" repeatCount="indefinite" begin="0s"/></rect>')
+    return svg(W, H, b, 'role="img" aria-label="Now playing: Ozzy Osbourne, Iron Maiden, Dio, Path of Exile, Elden Ring, Dragon Ball"')
+
+
 # ---------------------------------------------------------------- saida
 def _write(name, content):
     os.makedirs(ASSETS, exist_ok=True)
@@ -855,6 +904,7 @@ def build_all(theme, today=None):
     keep.add(qname)
     _write("divider.svg", divider(theme))
     _write("sheet.svg", sheet())
+    _write("nowplaying.svg", nowplaying())
     _write("sidequests.svg", sidequests())
     import mapgen
     _write("map-goiania.svg", mapgen.map_svg(text, text_w, lambda w, h: medieval_frame(w, h, random.Random("mapframe"), inner=False, crest=False)))
