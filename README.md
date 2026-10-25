@@ -1,7 +1,7 @@
 <!--THEME:START-->
 <div align="center">
 
-<img src="assets/banner-rock.svg" width="100%" alt="Banner"/>
+<img src="assets/banner-halloween.svg" width="100%" alt="Banner"/>
 
 </div>
 <!--THEME:END-->
@@ -138,5 +138,5 @@ Building scalable products, intelligent systems and technology-driven businesses
 </div>
 
 <!--FOOTER:START-->
-<img src="assets/footer-rock.svg" width="100%" alt="Footer"/>
+<img src="assets/footer-halloween.svg" width="100%" alt="Footer"/>
 <!--FOOTER:END-->
