@@ -1,142 +1,123 @@
 <!--THEME:START-->
 <div align="center">
 
-<img src="assets/banner-halloween.svg" width="100%" alt="Banner"/>
+<img src="assets/banner-fighter.svg" width="100%" alt="Banner"/>
 
 </div>
 <!--THEME:END-->
 
 <div align="center">
 
+<img src="assets/hook.svg" width="100%" alt="From first idea to production: secure, scalable and shipped fast"/>
+
+<img src="assets/license.svg" width="100%" alt="Character select card"/>
+
+<br>
+<br>
+
 <a href="https://www.linkedin.com/in/thiago-matheus-onorio-ribeiro-pinheiro-5b918b270/" target="_blank"><img src="assets/badges/linkedin.svg" height="32" alt="LinkedIn"/></a>
-<img src="assets/badges/rock.svg" height="32" alt="Rock & Roll"/>
-<img src="assets/badges/eldenring.svg" height="32" alt="Elden Ring"/>
-<img src="assets/badges/pc.svg" height="32" alt="PC Master Race"/>
-<img src="assets/badges/darkfantasy.svg" height="32" alt="Dark Fantasy"/>
-<img src="assets/badges/anime.svg" height="32" alt="Anime"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## <img src="assets/icon-sword.svg" height="44" align="absmiddle" alt=""/> The Hero
-
-<div align="center">
-  <img src="assets/sheet.svg" width="100%" alt="Character sheet"/>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://thiagofalcone.github.io/portfolio_eu/" target="_blank"><img src="assets/badges/portfolio.svg" height="32" alt="Portfolio"/></a>
 
 <br>
 
-**Thiago Matheus Onorio Ribeiro Pinheiro**, Software Engineer • AI Solutions • Software Architecture • Product Engineering • Technical Leadership.
+</div>
 
-Building scalable products, intelligent systems and technology-driven businesses. Cloud deployments, AI integration, workflow automation and end-to-end product development, with a Les Paul within reach and a skateboard by the door. 🎸🛹
+### Player 1
 
-📍 **Goiânia, Goiás, Brasil** <img src="assets/flags/br.svg" width="20" height="20" align="absmiddle" alt="Brasil"/>
+I am a **software engineer and entrepreneur**. I design, ship and secure software end to end: architecture, DevOps and SecOps pipelines, AWS cloud and AI agents built with Claude. I also build products and technology-driven businesses, from the first idea to a running company.
 
-**Languages spoken:** <img src="assets/flags/br.svg" width="20" height="20" align="absmiddle" alt="Brasil"/> Portuguese (Native) • <img src="assets/flags/us.svg" width="20" height="20" align="absmiddle" alt="United States"/> English (Fluent) • <img src="assets/flags/es.svg" width="20" height="20" align="absmiddle" alt="España"/> Spanish • <img src="assets/flags/de.svg" width="20" height="20" align="absmiddle" alt="Deutschland"/> German (A2–B1)
+<img src="assets/flags/br.svg" width="20" height="20" align="absmiddle" alt="Brasil"/> **Base:** Goiânia, Goiás, Brasil
+<br>
+**Languages:** <img src="assets/flags/br.svg" width="20" height="20" align="absmiddle" alt="Brasil"/> Portuguese (Native) &nbsp; <img src="assets/flags/us.svg" width="20" height="20" align="absmiddle" alt="United States"/> English (Fluent) &nbsp; <img src="assets/flags/es.svg" width="20" height="20" align="absmiddle" alt="España"/> Spanish &nbsp; <img src="assets/flags/de.svg" width="20" height="20" align="absmiddle" alt="Deutschland"/> German (A2–B1)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/bar-1.svg" width="100%" alt="Round 1: Focus"/>
 
-## <img src="assets/icon-chest.svg" height="44" align="absmiddle" alt=""/> The Inventory
+<img src="assets/badges/tag-dev.svg" alt="Development"/>
 
-**Focus:** Software Architecture • Artificial Intelligence • Product Development • System Design • Cloud Solutions • Workflow Automation • Technical Leadership • Innovation Strategy • Digital Transformation
+<p>
+<img src="assets/badges/java.svg" height="32" alt="Java"/>
+<img src="assets/badges/spring.svg" height="32" alt="Spring"/>
+<img src="assets/badges/angular.svg" height="32" alt="Angular"/>
+<img src="assets/badges/ts.svg" height="32" alt="TypeScript"/>
+<img src="assets/badges/js.svg" height="32" alt="JavaScript"/>
+<br>
+<img src="assets/badges/python.svg" height="32" alt="Python"/>
+<img src="assets/badges/flutter.svg" height="32" alt="Flutter"/>
+<img src="assets/badges/dart.svg" height="32" alt="Dart"/>
+<img src="assets/badges/html.svg" height="32" alt="HTML5"/>
+<img src="assets/badges/css.svg" height="32" alt="CSS3"/>
+</p>
 
-### 🔮 Spellbook: AI & Automation
+<img src="assets/badges/tag-devops.svg" alt="DevOps and Cloud"/>
+
+<p>
+<img src="assets/badges/aws.svg" height="32" alt="AWS"/>
+<img src="assets/badges/docker.svg" height="32" alt="Docker"/>
+<img src="assets/badges/actions.svg" height="32" alt="GitHub Actions"/>
+<img src="assets/badges/cicd.svg" height="32" alt="CI/CD"/>
+<img src="assets/badges/git.svg" height="32" alt="Git"/>
+<br>
+<img src="assets/badges/github.svg" height="32" alt="GitHub"/>
+<img src="assets/badges/postgres.svg" height="32" alt="PostgreSQL"/>
+<img src="assets/badges/vercel.svg" height="32" alt="Vercel"/>
+<img src="assets/badges/supabase.svg" height="32" alt="Supabase"/>
+</p>
+
+<img src="assets/badges/tag-secops.svg" alt="SecOps"/>
+
+<p>
+<img src="assets/badges/devsecops.svg" height="32" alt="DevSecOps"/>
+<img src="assets/badges/secure.svg" height="32" alt="Secure by design"/>
+<img src="assets/badges/access.svg" height="32" alt="Access control"/>
+</p>
+
+<img src="assets/badges/tag-ai.svg" alt="AI and Automation"/>
 
 <p>
 <img src="assets/badges/openai.svg" height="32" alt="OpenAI"/>
 <img src="assets/badges/claude.svg" height="32" alt="Claude"/>
 <img src="assets/badges/agents.svg" height="32" alt="AI Agents"/>
+<br>
 <img src="assets/badges/rag.svg" height="32" alt="RAG"/>
 <img src="assets/badges/prompt.svg" height="32" alt="Prompt Engineering"/>
 <img src="assets/badges/n8n.svg" height="32" alt="n8n"/>
 </p>
 
-### ⚒️ The Forge: Cloud, DevOps & Platforms
+<img src="assets/badges/tag-business.svg" alt="Business and Product"/>
 
 <p>
-<img src="assets/badges/aws.svg" height="32" alt="AWS"/>
-<img src="assets/badges/vercel.svg" height="32" alt="Vercel"/>
-<img src="assets/badges/supabase.svg" height="32" alt="Supabase"/>
-<img src="assets/badges/docker.svg" height="32" alt="Docker"/>
-<img src="assets/badges/actions.svg" height="32" alt="GitHub Actions"/>
+<img src="assets/badges/entrepreneur.svg" height="32" alt="Entrepreneurship"/>
+<img src="assets/badges/product.svg" height="32" alt="Product Engineering"/>
+<br>
+<img src="assets/badges/leadership.svg" height="32" alt="Tech Leadership"/>
+<img src="assets/badges/innovation.svg" height="32" alt="Innovation"/>
 </p>
 
-### 🗡️ Weapons: Technology Ecosystem
-
-<p>
-<img src="assets/skills/java.svg" width="48" height="48" title="Java" alt="Java"/>
-<img src="assets/skills/spring.svg" width="48" height="48" title="Spring" alt="Spring"/>
-<img src="assets/skills/angular.svg" width="48" height="48" title="Angular" alt="Angular"/>
-<img src="assets/skills/ts.svg" width="48" height="48" title="TypeScript" alt="TypeScript"/>
-<img src="assets/skills/js.svg" width="48" height="48" title="JavaScript" alt="JavaScript"/>
-<img src="assets/skills/html.svg" width="48" height="48" title="HTML5" alt="HTML5"/>
-<img src="assets/skills/css.svg" width="48" height="48" title="CSS3" alt="CSS3"/>
-<img src="assets/skills/flutter.svg" width="48" height="48" title="Flutter" alt="Flutter"/>
-<img src="assets/skills/dart.svg" width="48" height="48" title="Dart" alt="Dart"/>
-<img src="assets/skills/python.svg" width="48" height="48" title="Python" alt="Python"/>
-<img src="assets/skills/postgres.svg" width="48" height="48" title="PostgreSQL" alt="PostgreSQL"/>
-<img src="assets/skills/docker.svg" width="48" height="48" title="Docker" alt="Docker"/>
-<img src="assets/skills/git.svg" width="48" height="48" title="Git" alt="Git"/>
-<img src="assets/skills/github.svg" width="48" height="48" title="GitHub" alt="GitHub"/>
-<img src="assets/skills/aws.svg" width="48" height="48" title="AWS" alt="AWS"/>
-</p>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## <img src="assets/icon-guitar.svg" height="44" align="absmiddle" alt=""/> Side Quests
-
-<div align="center">
-  <img src="assets/sidequests.svg" width="100%" alt="Side quests: guitar, rock and metal, dark fantasy, fighting games, anime, PC gaming, skate"/>
-</div>
-
-<div align="center">
-
-<img src="assets/nowplaying.svg" width="100%" alt="Now playing"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## <img src="assets/icon-pin.svg" height="44" align="absmiddle" alt=""/> The Homeland
-
-**Goiânia, Goiás, Brasil** <img src="assets/flags/br.svg" width="20" height="20" align="absmiddle" alt="Brasil"/> The base camp where every quest starts.
-
-<div align="center">
-  <img src="assets/map-goiania.svg" width="100%" alt="Map of Goiânia, Goiás, Brazil"/>
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## <img src="assets/icon-castle.svg" height="44" align="absmiddle" alt=""/> The Kingdom
+<img src="assets/bar-2.svg" width="100%" alt="Round 2: Activity"/>
 
 <div align="center">
 
 <img src="assets/contrib3d.svg" width="100%" alt="3D contributions graph"/>
 
+<br>
+
 <img src="assets/stats.svg" width="100%" alt="GitHub stats"/>
 
 </div>
 
-### 🚀 Current Quests
-
-- 🤖 Building AI-powered products
-- 🏗️ Designing scalable architectures
-- ⚙️ Intelligent automation with n8n
-- ☁️ Cloud-native applications
-- 💡 Product strategy and innovation
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## <img src="assets/icon-music.svg" height="44" align="absmiddle" alt=""/> The Stage
+<img src="assets/bar-3.svg" width="100%" alt="Round 3: Stage select"/>
 
 <div align="center">
-<!--QUOTE:START-->
-<img src="assets/stage.svg" width="100%" alt="David Gilmour Stratocaster on a medieval frame"/>
-<!--QUOTE:END-->
+
+<img src="assets/map-goiania.svg" width="100%" alt="Stage select map of Goiânia, Goiás, Brazil"/>
 
 </div>
 
-<!--FOOTER:START-->
-<img src="assets/footer-halloween.svg" width="100%" alt="Footer"/>
-<!--FOOTER:END-->
+**Beyond the code:** Street Fighter, dark fantasy RPGs (Elden Ring, Diablo, Path of Exile, Dark Souls), anime, rock and metal, and skate.
+
+<img src="assets/cta.svg" width="100%" alt="Ready for the next challenge? Let's build something great together"/>
+
+<img src="assets/continue.svg" width="100%" alt="Continue? Insert coin"/>
+
+<sub>(c) 2026 Thiago Falcone. All rights reserved. This layout, text and artwork are original work and are not licensed for copying or reuse. See [LICENSE](LICENSE) and [CREDITS](CREDITS.md).</sub>

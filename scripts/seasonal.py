@@ -180,7 +180,7 @@ def pick(today: date) -> str:
     for name, ok in rules:
         if ok and name in THEMES:
             return name
-    return "rock"
+    return "fighter"
 
 
 def block(name: str, files: dict) -> str:

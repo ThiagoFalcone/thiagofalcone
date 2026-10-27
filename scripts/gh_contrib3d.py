@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_assets as B  # noqa: E402
 
 MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
-LEVEL = ["#1d1b26", "#6b5a1e", "#a68628", "#d4af37", "#ffe27a"]
+LEVEL = ["#1a1630", "#2a3f8f", "#3b6fd1", "#3a9ad9", "#e02a3a"]
 
 
 def fetch(user):
@@ -39,15 +39,15 @@ def fetch(user):
 
 def render(days, total):
     W, H = 1056, 312
-    gold = "#c8a24a"
+    gold = "#3b6fd1"
     cs, dx, dy = 18, 8, 9
     x0, yfront = 75, 262
-    b = f'<rect width="{W}" height="{H}" fill="#0d0a14"/>'
+    b = f'<rect width="{W}" height="{H}" fill="#0b0612"/>'
     b += f'<rect x="4" y="4" width="{W - 8}" height="{H - 8}" fill="none" stroke="{gold}" stroke-width="8"/>'
-    b += f'<rect x="18" y="18" width="{W - 36}" height="{H - 36}" fill="none" stroke="#6b5420" stroke-width="4"/>'
+    b += f'<rect x="18" y="18" width="{W - 36}" height="{H - 36}" fill="none" stroke="#243a82" stroke-width="4"/>'
     for cx, cy in ((0, 0), (W - 24, 0), (0, H - 24), (W - 24, H - 24)):
-        b += f'<rect x="{cx}" y="{cy}" width="24" height="24" fill="{gold}"/><rect x="{cx + 8}" y="{cy + 8}" width="8" height="8" fill="#0d0a14"/>'
-    b += B.text(48, 34, "CONTRIBUTIONS", 3, "#f2cf5b", "#000000")
+        b += f'<rect x="{cx}" y="{cy}" width="24" height="24" fill="#c01824"/><rect x="{cx + 8}" y="{cy + 8}" width="8" height="8" fill="#0b0612"/>'
+    b += B.text(48, 34, "CONTRIBUTIONS", 3, "#ffffff", "#1a0b3a")
     t = f"{total} IN THE LAST YEAR"
     b += B.text(W - 48 - B.text_w(t, 3), 34, t, 3, "#e8d5a3", "#000000")
     grid = {(c, r): (lv, n) for c, r, _, lv, n in days}
@@ -72,7 +72,7 @@ def render(days, total):
         y, m, dd = (int(v) for v in d.split("-"))
         if r == 0 and dd <= 7 and m not in seen:
             seen.add(m)
-            b += B.text(x0 + c * cs - 6 * dx, yfront + 14, MONTHS[m - 1], 2, "#8a7a4a")
+            b += B.text(x0 + c * cs - 6 * dx, yfront + 14, MONTHS[m - 1], 2, "#8fb4ff")
     return B.svg(W, H, b, 'role="img" aria-label="3D contributions graph for the last year"')
 
 
