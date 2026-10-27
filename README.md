@@ -13,13 +13,10 @@
 <img src="assets/license.svg" width="100%" alt="Character select card"/>
 
 <br>
-<br>
 
 <a href="https://www.linkedin.com/in/thiago-matheus-onorio-ribeiro-pinheiro-5b918b270/" target="_blank"><img src="assets/badges/linkedin.svg" height="32" alt="LinkedIn"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://thiagofalcone.github.io/portfolio_eu/" target="_blank"><img src="assets/badges/portfolio.svg" height="32" alt="Portfolio"/></a>
-
-<br>
 
 </div>
 
