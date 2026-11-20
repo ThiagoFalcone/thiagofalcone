@@ -1,7 +1,7 @@
 <!--THEME:START-->
 <div align="center">
 
-<img src="assets/banner-fighter.svg" width="100%" alt="Banner"/>
+<img src="assets/banner-blackfriday.svg" width="100%" alt="Banner"/>
 
 </div>
 <!--THEME:END-->
